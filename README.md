@@ -7,11 +7,9 @@
 
 ---
 ## Charts
-1.  Chart for Outcomes Based on Launch Date
-
+### Outcomes Based on Launch Date Graph
 ![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
 
 ---
-2. Chart for Parent Category Outcomes
-
+### Parent Category Outcomes Graph
 ![Parent Category Outcomes](Parent Category Outcomes.png)
