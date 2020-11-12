@@ -9,9 +9,9 @@
 ## Charts
 1.  Chart for Outcomes Based on Launch Date
 
-![Outcomes Based on Launch Date](C:\Users\fl893222\OneDrive - BioMarin\Desktop\BootCamp\Module1\Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
 
 ---
 2. Chart for Parent Category Outcomes
 
-![Parent Category Outcomes]{C:\Users\fl893222\OneDrive - BioMarin\Desktop\BootCamp\Module1\Parent Category Outcomes.png)
+![Parent Category Outcomes](Parent Category Outcomes.png)
