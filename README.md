@@ -19,13 +19,12 @@ Based on Launch Date alone, theatre plays launched in May have the highest succe
 ---
 May also sees the highest volume of failed campaign outcomes, but there is a fairly steady failure volume between May and August.  
 
-![](images/Theatre_Outcomes_vs_Launch.png)
+![](images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Based on Goals alone, theatre plays with a funding goal less than $5000 have the highest success percentage and the highest number of projects.  But there is also an opportunity at the $35,000 to $45,000 funding goal range at a much lower number of campaigns launched.
 
----
 The highest theatre play campaign failure percentages occur within the $25,000 to $35,000 and greater than $45,000 ranges.
 
 ![](images/Outcomes_vs_Goals.png)
