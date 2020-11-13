@@ -19,7 +19,7 @@ Based on Launch Date alone, theatre plays launched in May have the highest succe
 ---
 May also sees the highest volume of failed campaign outcomes, but there is a fairly steady failure volume between May and August.  
 
-![](Theatre_Outcomes_vs_Launch)
+![](/Theatre_Outcomes_vs_Launch)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -28,7 +28,7 @@ Based on Goals alone, theatre plays with a funding goal less than $5000 have the
 ---
 The highest theatre play campaign failure percentages occur within the $25,000 to $35,000 and greater than $45,000 ranges.
 
-![](Outcomes_vs_Goals)
+![](/Outcomes_vs_Goals)
 
 ### Challenges and Difficulties Encountered
 
@@ -55,7 +55,11 @@ There are at least two conclusions you can draw about the Outcomes based on Laun
 2) For campaign goals higher than $25,000, the sample set used for analysis is significantly lower than the number of projects with goals less than $25,000.
 
 *Possible additional tables and/or graphs that we can be created are:
+
 *Country based breakdown of outcome to understand if any country has higher success rates
+
 *Pledge based breakdown to determine if there is an optimal tiered pledge amount including calculation average donation amount
+
 *Subcategory view for the Theatre to understand campaign volumes for the subcategories
+
 *Campaign Duration from launch date to Deadline date to determine if there is an optimal duration
