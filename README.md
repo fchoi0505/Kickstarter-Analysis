@@ -19,7 +19,7 @@ Based on Launch Date alone, theatre plays launched in May have the highest succe
 ---
 May also sees the highest volume of failed campaign outcomes, but there is a fairly steady failure volume between May and August.  
 
-![](/Theatre_Outcomes_vs_Launch)
+![](images/Theatre_Outcomes_vs_Launch)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -28,7 +28,7 @@ Based on Goals alone, theatre plays with a funding goal less than $5000 have the
 ---
 The highest theatre play campaign failure percentages occur within the $25,000 to $35,000 and greater than $45,000 ranges.
 
-![](/Outcomes_vs_Goals)
+![](images/Outcomes_vs_Goals)
 
 ### Challenges and Difficulties Encountered
 
@@ -46,15 +46,15 @@ There are at least two conclusions you can draw about the Outcomes based on Laun
 1) The month of May has a high number of successful campaigns and suggests to be a good month to launch a theatre campaign.
 2) After May, there is a downward trend of successful theatre campaigns with the lowest number of successes in November and December.
 
-*From the Outcomes based on Goals
+###From the Outcomes based on Goals
 1) The highest percentage of successes are associated with campaign goals $1000 or lower.
 2) There is another percentage peak of successful campaigns at the $35,000-$45,000 goal range, but the percentage is based on a significantly lower number of projects than the $1000 or less dollar range.
 
-*Limitations of this dataset
+###Limitations of this dataset
 1) Kickstarter is the only source used for this analysis.  Additional crowdfunding sites may provide confirm or changes to analysis findings.
 2) For campaign goals higher than $25,000, the sample set used for analysis is significantly lower than the number of projects with goals less than $25,000.
 
-*Possible additional tables and/or graphs that we can be created are:
+###Possible additional tables and/or graphs that we can be created are:
 
 *Country based breakdown of outcome to understand if any country has higher success rates
 
