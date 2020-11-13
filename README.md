@@ -4,7 +4,7 @@
 
 Using Excel to analyze the Kickstarter campaign outcomes in relationship to their launch dates and funding goals.
 
-### Purpose:
+### Purpose and Background:
 
 Microsoft Excel based analysis using Kickstarter campaign details for projects focused on theatre plays to gain an understanding on any outcome trends based on launch dates and funding goals before launching a similar campaign type. 
 
@@ -12,16 +12,15 @@ Excel filtering and formula functionalities paired with visualization capabities
 
 ## Analysis and Challenges:
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Theater Outcomes Based on Launch Date
 
 Based on Launch Date alone, theatre plays launched in May have the highest successful outcome although there is month over month decrease in campaign success after May.
 
----
 May also sees the highest volume of failed campaign outcomes, but there is a fairly steady failure volume between May and August.  
 
 ![](images/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Theater Outcomes Based on Goals
 
 Based on Goals alone, theatre plays with a funding goal less than $5000 have the highest success percentage and the highest number of projects.  But there is also an opportunity at the $35,000 to $45,000 funding goal range at a much lower number of campaigns launched.
 
